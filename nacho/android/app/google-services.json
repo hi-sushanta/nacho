@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54463308972",
+    "project_id": "nacho-f1aba",
+    "storage_bucket": "nacho-f1aba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54463308972:android:1a13602381517d118f6b09",
+        "android_client_info": {
+          "package_name": "nacho.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvd10MPpXqCuLKl6Yzm--AfJyodhk-iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

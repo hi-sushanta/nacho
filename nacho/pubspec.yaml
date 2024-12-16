@@ -1,0 +1,30 @@
+name: nacho
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.8.1
+  firebase_auth: ^5.3.4
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/image_0.png"
+    - "assets/image_1.png"
+    - "assets/image_2.png"
+    - "assets/image_3.png"
+    - "assets/image_4.png"
+    - "assets/image_5.png"
+    - "assets/image_6.png"
+    - "assets/image_7.png"
